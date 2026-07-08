@@ -18,7 +18,7 @@ A Python GUI application that analyzes password strength and provides security r
 
 ## 📷 Screenshot
 
-![Password Strength Analyzer](assets/Screenshot_2026-07-08_09_33_44.png)
+![Password Strength Analyzer](assets/screenshot.png)
 
 ## ▶️ How to Run
 
@@ -34,8 +34,24 @@ PasswordStrengthAnalyzer/
 │── password_strength_gui.py
 │── README.md
 └── assets/
-    └── Screenshot_2026-07-08_09_33_44.png
+    └── Screenshot.png
 ```
+## 📦 Requirements
+
+- Python 3.x
+- Tkinter (comes with Python)
+
+No external libraries are required.
+...
+
+## 🔮 Future Improvements
+
+- Dark Mode
+- Password History
+- Password Breach Checker
+- Better UI Design
+- Password Export Feature
+...
 
 ## 👨‍💻 Author
 
